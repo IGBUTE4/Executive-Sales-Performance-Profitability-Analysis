@@ -5,28 +5,28 @@ An executive-level Power BI dashboard analyzing sales performance, profitability
 This project analyzes multi-year sales data to uncover insights into revenue growth, profitability, cost structure, and demand trends across products, factories, divisions, regions, and states using Power BI.
 
 ## Objectives
-Monitor overall sales and profitability performance
+- Monitor overall sales and profitability performance
 
-Identify top and underperforming products, regions, and factories
+- Identify top and underperforming products, regions, and factories
 
-Analyze cost drivers and profit margins
+- Analyze cost drivers and profit margins
 
-Compare sales targets vs actual performance
+- Compare sales targets vs actual performance
 
-Deliver executive-level insights through interactive dashboards
+- Deliver executive-level insights through interactive dashboards
 
 ## Key KPIs
-Total Revenue
+- Total Revenue
 
-Total Profit
+- Total Profit
 
-Profit Margin
+- Profit Margin
 
-Total Orders
+- Total Orders
 
-Average Order Value (AOV)
+- Average Order Value (AOV)
 
-Cost of Goods Sold (COGS)
+- Cost of Goods Sold (COGS)
 
 ## Dashboard Pages & Insights
 Page 1 –Executive Sales Performance Overview
@@ -54,20 +54,20 @@ Page 2 – Profitability, Cost & Demand Drivers
         Bottom 5 products by number of orders
         
 ## Tools & Technologies
-Power BI (DAX, data modeling, interactive visuals)
+- Power BI (DAX, data modeling, interactive visuals)
 
-Power Query (data cleaning and transformation)
+- Power Query (data cleaning and transformation)
 
-Excel / CSV (source data)
+- Excel / CSV (source data)
 
 ## Key DAX Measures Used
-Year-over-Year (YoY) Revenue Growth %
+- Year-over-Year (YoY) Revenue Growth %
 
-Profit Margin
+- Profit Margin
 
-Average Order Value (AOV)
+- Average Order Value (AOV)
 
-Time-intelligence using a Date Table
+- Time-intelligence using a Date Table
 
 ## Dashboard
 
